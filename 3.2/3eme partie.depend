@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542190769 source:c:\users\util\desktop\3eme partie\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542190769 source:c:\users\util\desktop\3eme partie\menu.c
+	"menu.h"
+	"generationCode.h"
+
+1542118092 c:\users\util\desktop\3eme partie\menu.h
+
+1542118480 c:\users\util\desktop\3eme partie\generationcode.h
+
+1542187939 source:c:\users\util\desktop\3eme partie\generationcode.c
+	"generationCode.h"
+	<stdlib.h>
+	<stdio.h>
+
